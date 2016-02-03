@@ -2,6 +2,7 @@
   "name": "jQuery.print",
   "filename": "jQuery.print.min.js",
   "version": "1.3.3",
+  "main": "jQuery.print.js",
   "homepage": "https://doersguild.github.io/jQuery.print/",
   "authors": [
     "Sathvik P <sathvik@doersguild.com>"
